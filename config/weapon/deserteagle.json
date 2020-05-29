@@ -1,0 +1,50 @@
+﻿{
+  "name": "deserteagle",
+  "localScale": {
+    "x": 0.42,
+    "y": 0.42,
+    "z": 0.42
+  },
+  "localPosition": {
+    "x": -0.57,
+    "y": 0.635,
+    "z": -0.141
+  },
+  "localRotation": {
+    "x": 22.504,
+    "y": -3.451,
+    "z": 105.736
+  },
+  "leftHandIKPositon": {
+    "x": -0.15,
+    "y": -0.43,
+    "z": 0.31
+  },
+  "rightHandIKPositon": {
+    "x": -0.548,
+    "y": -0.395,
+    "z": -0.22
+  },
+  "BulletCountFirst": 7,
+  "BulletCountSecond": 21,
+  "BulletCountFirstFull": 7,
+  "skills": [
+    {
+      "name": "shoot",
+      "cd": 100
+    },
+    {
+      "name": "shoot_brush",
+      "cd": 500
+    },
+    {
+      "name": "reload",
+      "cd": 3000
+    }
+  ],
+  "recoilUp": 1.0,
+  "recoilLeft": -0.5,
+  "recoilRight": 0.5,
+  "horizontalRevert": 0.0,
+  "verticalRevert": 0.3
+}

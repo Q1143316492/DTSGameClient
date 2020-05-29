@@ -1,0 +1,38 @@
+﻿{
+  "name": "knife",
+  "localScale": {
+    "x": 0.6,
+    "y": 0.6,
+    "z": 0.6
+  },
+  "localPosition": {
+    "x": -0.1984,
+    "y": 0.5962,
+    "z": -0.1826
+  },
+  "localRotation": {
+    "x": 159.454,
+    "y": -157.94,
+    "z": -121.84
+  },
+  "leftHandIKPositon": {
+    "x": 0.63,
+    "y": -0.25,
+    "z": 0.3
+  },
+  "rightHandIKPositon": {
+    "x": -0.367,
+    "y": -0.589,
+    "z": -0.106
+  },
+  "skills": [
+    {
+      "name": "left",
+      "cd": 700
+    },
+    {
+      "name": "right",
+      "cd": 1000
+    }
+  ]
+}

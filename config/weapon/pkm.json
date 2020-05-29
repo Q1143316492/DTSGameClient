@@ -1,0 +1,46 @@
+﻿{
+ "name": "pkm",
+ "localScale": {
+   "x": 0.42,
+   "y": 0.42,
+   "z": 0.42
+ },
+ "localPosition": {
+   "x": -0.3315,
+   "y": 0.4753,
+   "z": 0.045
+ },
+ "localRotation": {
+   "x": 66.156,
+   "y": 8.272,
+   "z": 102.988
+ },
+ "leftHandIKPositon": {
+   "x": 1.31,
+   "y": -0.25,
+   "z": 0.34
+ },
+ "rightHandIKPositon": {
+   "x": -0.3,
+   "y": -0.41,
+   "z": -0.15
+ },
+ "BulletCountFirst": 30,
+ "BulletCountSecond": 150,
+ "BulletCountFirstFull": 30,
+ "skills": [
+   {
+     "name": "shoot",
+     "cd": 100
+   },
+   {
+     "name": "reload",
+     "cd": 3180
+   }
+ ],
+ "recoilUp": 5.0,
+ "recoilLeft": -0.5,
+ "recoilRight": 0.5,
+ "horizontalRevert": 0.0,
+ "verticalRevert": 0.3
+}
